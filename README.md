@@ -7,7 +7,7 @@ Contact information:
 Lead:	zhanjunxiong <zhanjunxiong@126.com>
 
 GIT Repositories:
-	See: https://github.com/harningt/luaevent
+	See: https://github.com/zhanjunxiong/luaevent.git
 	
 Build Requirements:
 	libevent (recommend >= 2.0)
